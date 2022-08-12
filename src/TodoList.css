@@ -1,0 +1,23 @@
+body {
+	padding: 2rem;
+}
+
+ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	padding: 1rem 0;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+li:last-child {
+	border-bottom: 0;
+}
+
+.delete-link {
+	float: right;
+	margin-top: -10px;
+}
